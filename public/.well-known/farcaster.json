@@ -10,8 +10,8 @@
     "iconUrl": "https://credentials.base.app/icon.png",
     "splashImageUrl": "https://credentials.base.app/splash.png",
     "splashBackgroundColor": "#0052FF",
-    "homeUrl": "https://credentials.base.app",
-    "webhookUrl": "https://credentials.base.app/api/minikit/webhook",
+    "homeUrl": "https://app-3a6b06be-tqnu.vercel.app",
+    "webhookUrl": "https://app-3a6b06be-tqnu.vercel.app/api/webhook",
     "subtitle": "Own Your Professional Identity",
     "description": "Securely own, manage, and selectively share your professional credentials on-chain via Farcaster. Generate zero-knowledge proofs to verify qualifications without revealing sensitive data.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://credentials.base.app/screenshots/3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["credentials", "identity", "zkp", "verification", "professional"],
+    "tags": [
+      "credentials",
+      "identity",
+      "zkp",
+      "verification",
+      "professional"
+    ],
     "heroImageUrl": "https://credentials.base.app/og-image.png",
     "tagline": "Prove your credentials privately",
     "ogTitle": "Verifiable Credentials on Base",
